@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there, I'm Pablo 👋
 
-<!--
-**pablo-lozano-martin/pablo-lozano-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Lead Architect** who makes machines do the boring stuff (so we don't have to)
 
-Here are some ideas to get you started:
+Currently building a playground for experimenting with new AI models and techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+```python
+tech_stack = {
+    "ai": ["RAGs", "Agents", "MCPs", "LangGraph", "LangChain"],
+    "cloud": ["Azure", "GCP", "Docker", "CI/CD"],
+    "languages": ["Python", "Java", "C++", "SQL"],
+}
+```
+
+## 📊 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=default)](https://git.io/streak-stats)
+
+---
+
+<div align="center">
+  
+📍 Madrid | ✉️ pablolozanomartin1@gmail.com
+
+</div>
