@@ -8,7 +8,7 @@ Currently building a playground for experimenting with new AI models and techniq
 
 ```python
 tech_stack = {
-    "ai": ["RAGs", "Agents", "MCPs", "LangGraph", "LangChain"],
+    "ai": ["Agents", "MCPs", "LangGraph", "LangChain", "RAGs"],
     "cloud": ["Azure", "GCP", "Docker", "CI/CD"],
     "languages": ["Python", "Java", "C++", "SQL"],
 }
