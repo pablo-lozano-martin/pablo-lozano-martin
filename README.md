@@ -14,8 +14,6 @@ tech_stack = {
 }
 ```
 
----
-
 <div align="center">
   
 📍 Madrid | ✉️ pablolozanomartin1@gmail.com
