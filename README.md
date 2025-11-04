@@ -1,21 +1,32 @@
-# Hey there, I'm Pablo 👋
+# Pablo Lozano
 
-**AI Lead Architect** who makes machines do the boring stuff (so we don't have to)
+I make LLMs do the boring stuff
 
-Currently building a playground for experimenting with new AI models and techniques
+---
 
-## 🛠️ What I Work With
+## 🚀 About Me
+
+I specialize in designing and implementing production-grade AI solutions that transform how teams work. My focus is on **practical AI engineering** and creating systems that solve real problems.
+
+## 🛠️ Technical Expertise
 
 ```python
 tech_stack = {
-    "ai": ["Agents", "MCPs", "LangGraph", "LangChain", "RAGs"],
-    "cloud": ["Azure", "GCP", "Docker", "CI/CD"],
-    "languages": ["Python", "Java", "C++", "SQL"],
+    "ai_ml": {
+        "agents": ["Multi-agent systems", "Autonomous workflows"],
+        "frameworks": ["LangGraph", "LangChain", "MCPs"],
+        "architectures": ["RAG", "Fine-tuning", "Prompt Engineering"]
+    },
+    "infrastructure": {
+        "cloud": ["Azure", "GCP"],
+        "devops": ["Docker", "CI/CD", "GitHub"]
+    },
+    "languages": ["Python", "Java", "C++", "SQL"]
 }
 ```
 
 <div align="center">
   
-📍 Madrid | ✉️ pablolozanomartin1@gmail.com
+🌐 **[pablo-lozano.vercel.app](https://pablo-lozano.vercel.app)** | ✉️ pablolozanomartin1@gmail.com | 📍 Madrid, Spain
 
 </div>
