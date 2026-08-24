@@ -2,5 +2,5 @@
 
 I make LLMs do the boring stuff
 
-- Portfolio: [pablo-lozano.vercel.app](https://pablo-lozano.vercel.app)
+- Portfolio: [pablozano.com](https://pablozano.com)
 - Email: pablolozanomartin1@gmail.com
